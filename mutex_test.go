@@ -114,5 +114,4 @@ func TestDeadLock(t *testing.T) {
 
 	fmt.Println("User", user1.Name, "- Balance:", user1.Balance)
 	fmt.Println("User", user2.Name, "- Balance:", user2.Balance)
-
 }
